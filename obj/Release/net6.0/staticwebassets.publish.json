@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uvmFiAyI1RM5DvIaQitL1gzK2bjkfvFuXCry7+PGLj4=",
+  "Source": "interest_web_api",
+  "BasePath": "_content/interest_web_api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
